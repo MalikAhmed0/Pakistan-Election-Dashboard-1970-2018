@@ -1,7 +1,7 @@
-Data Analytics methods used in the project:
+Data Analytics techniques used in the project:
 
-Data Cleaning
-Data Processing
-Exploratory Data Analysis (EDA)
-Data Analysis
-Data Visualization
+* Data Cleaning<br>
+* Data Processing<br>
+* Exploratory Data Analysis (EDA)<br>
+* Data Analysis<br>
+* Data Visualization<br>
